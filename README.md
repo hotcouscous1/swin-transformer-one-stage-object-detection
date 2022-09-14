@@ -1,1 +1,1 @@
-# swin-transformer-one-stage-object-detection
+# Swin Transformer + BiFPN + YOLO 
