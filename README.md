@@ -1,9 +1,6 @@
 # Swin Transformer + BiFPN + YOLO V5
 
-In this repository, we present a new structure of one-stage detection model based on Swin Transformer. There are official and other repositories with Swin Transformer as the backbone of the model, but here's what's new:
-
-
-이것은 swin을 이용한 원스테이지 디텍션 모델이다. 모델의 백본을 swin으로 하는 공식 and 다른 레포들이 있지만, 여기서 새로운 점은 다음과 같다
+In this repository, we present a new structure of one-stage detection model based on Swin Transformer. There are official and other repositories adopting Swin Transformer as the backbone of the model, but what's new here is;
 * BiFPN instead of FPN
 * YOLO V5 스타일의 bbox regression and head? predictor?
 * focal loss
