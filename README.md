@@ -1,4 +1,4 @@
-# Swin Transformer + BiFPN + YOLO V5
+# Swin Transformer + BiFPN + YOLO V5 [Yet Developing ⚙️]
 
 Swin Transformer is one of the most powerful backbones in the image domain today. It is the first model that allowed ViT to be applied to dense prediction tasks such as object detection and segmentation.  
 
